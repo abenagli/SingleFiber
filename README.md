@@ -1,17 +1,17 @@
-SolidCapillary
-==============
+SingleFiber
+===========
 
-Simulation of a solid capillary fiber
+Simulation of a solid crystal fiber fiber
 
 
 Instructions to run the code on lxplus
 
 1. download the code from github:
-git clone git:github.com:/abenagli/SolidCapillary
+git clone git:github.com:/abenagli/SingleFiber
 
 
 2. enter the directory
-cd SolidCapillary
+cd SingleFiber
 
 
 3. source Geant4 installation at cern:
@@ -27,4 +27,4 @@ cd..
 
 
 5. execute it:
-./build/SolidCapillary template.cfg
+./build/SingleFiber template.cfg
